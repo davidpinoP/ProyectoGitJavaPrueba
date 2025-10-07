@@ -11,4 +11,10 @@ public class mainGitEjercicio {
 	 public static void saludar() {
 	        System.out.println("Hola, soy David!");
 	    }
+		despedirse();
+	}
+
+	public static void despedirse() {
+        System.out.println("Adiós, hasta pronto!");
+    }
 }
